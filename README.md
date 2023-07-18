@@ -23,11 +23,11 @@ Note: [useful.py](useful.py) was for my use when filtering big_data. I left it i
 
 ### Rules
 Yuck, rules, ikr. But they are important!
-    - Be sensible with the amount of data processed! big_data has (give or take) the entire UK as a terrain map. This can get big should it all be processed! It will also take ages (the algorithm has not been optimised on purpose!) Please be sensible and only process a resonable amount of data. Each file that is processed will create 5 bits of input_data. Please do not abuse this!
-    - You must work together! This is a team-buidling activity, after all! 
-    - Please do not edit dataCreation.py, or AnswerChecker.py. These are operational files (that being said, they may contain errors! If you suspect something may be up, you are free to investigate.)
-    - Please do not abuse / spam the answer checker system. 
-    - You may read through dataCreation.py for a better idea of what is going on 
+- Be sensible with the amount of data processed! big_data has (give or take) the entire UK as a terrain map. This can get big should it all be processed! It will also take ages (the algorithm has not been optimised on purpose!) Please be sensible and only process a resonable amount of data. Each file that is processed will create 5 bits of input_data. Please do not abuse this!
+- You must work together! This is a team-buidling activity, after all! 
+- Please do not edit dataCreation.py, or AnswerChecker.py. These are operational files (that being said, they may contain errors! If you suspect something may be up, you are free to investigate.)
+- Please do not abuse / spam the answer checker system. 
+- You may read through dataCreation.py for a better idea of what is going on 
 
 ### Where do i code?
 You will find a file called main.py. Please use this. A basic template has been set up to get you started. 
