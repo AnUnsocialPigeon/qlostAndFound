@@ -191,7 +191,7 @@ if __name__ == "__main__":
     with open(answersDir, 'w') as answer_file:    
         # Generate the false data
         print("Generating all files...")
-        for folder, _, files in os.walk(".\\chosen_data"):
+        for folder, _, files in os.walk(".\\big_data"):
             for asc_file in [os.path.join(folder, filename) for filename in files if filename.endswith(".asc")]:
                 # get the file paths
                 file = os.path.splitext(asc_file)[0].split('\\')[-1]
