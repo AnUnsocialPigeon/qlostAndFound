@@ -1,0 +1,15 @@
+Oh no! Warwick RAG society has done their annual "LOST" challenge, and it has gone horribly wrong! The forms which keep track of where each student group is got blown off in the wind and are nowhere to be found.
+
+Fortunately, each student was fitted with a tracker, however, the company which developed the tracker was too lazy to develop the software to actually find the students. Typical!
+
+Due to your amazing work experience connections at {redacted}, you managed to gain access to a sattelite map of the entirety of england, where the positions of the students are located. 
+
+Your objective is simple: find these lost students.
+
+The levels of difficulty for this challenge come in 4 stages. Fundimental, easy, medium, hard, and impossible. 
+
+Each level will contain "signals" from the trackers. These appear as little blobs! 
+
+Please read the README.md for more technical info.
+
+Good luck!
